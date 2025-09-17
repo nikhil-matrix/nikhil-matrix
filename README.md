@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">Aspiring Data Scientist | Python Developer | ML Learner</h3>
+<h3 align="center">Aspiring Data Science | Python Developer | ML Learner</h3>
 
 - 🌱 I’m currently learning **Python | Pandas | Machine Learning | SQL | GitHub | Data Visualization**
 
 - 🤝 I’m looking for help with **I'm looking for help with finding mentorship and collaborating on data-driven projects.**
 
-- 📫 How to reach me **roy998537@gmail.com**
-
+- 📫 How to reach me **nikhil.r201701@**
+gmail.com
 - ⚡ Fun fact **I find bugs faster when I’m not even looking for them**
 
 <h3 align="left">Connect with me:</h3>
