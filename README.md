@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python | Pandas | Machine Learning | SQL | GitHub | Data Visualization**
 
-- 🤝 I’m looking for help with **I'm looking for help with finding mentorship and collaborating on data-driven projects.**
+- 🤝 I’m looking for help with **finding mentorship and collaborating on data-driven projects.**
 
 - 📫 How to reach me **nikhil.r201701@**
 gmail.com
